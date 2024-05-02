@@ -13,7 +13,7 @@ export default hopeTheme({
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+  logo: "/favicon.ico",
 
   repo: "vuepress-theme-hope/vuepress-theme-hope",
 
@@ -36,7 +36,7 @@ export default hopeTheme({
   },
 
   blog: {
-    description: "A FrontEnd programmer",
+    description: "地球物理",
     intro: "/intro.html",
     medias: {
       BiliBili: "https://example.com",
