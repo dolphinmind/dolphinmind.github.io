@@ -4,21 +4,10 @@ export default navbar([
   "/",
   "/demo/",
   {
-    text: "Posts",
+    text: "目录",
     icon: "pen-to-square",
     prefix: "/posts/",
     children: [
-      {
-        text: "Apple",
-        icon: "pen-to-square",
-        prefix: "apple/",
-        children: [
-          { text: "Apple1", icon: "pen-to-square", link: "1" },
-          { text: "Apple2", icon: "pen-to-square", link: "2" },
-          "3",
-          "4",
-        ],
-      },
       {
         text: "Banana",
         icon: "pen-to-square",
@@ -45,7 +34,7 @@ export default navbar([
     ],
   },
   {
-    text: "V2 Docs",
+    text: "参考",
     icon: "book",
     link: "https://theme-hope.vuejs.press/",
   },

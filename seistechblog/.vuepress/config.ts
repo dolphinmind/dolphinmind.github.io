@@ -4,9 +4,9 @@ import theme from "./theme.js";
 export default defineUserConfig({
   base: "/",
 
-  lang: "en-US",
-  title: "Blog Demo",
-  description: "A blog demo for vuepress-theme-hope",
+  lang: "zh-CN",
+  title: "我的旅程",
+  description: "走一段路，看看四处的风景，修一颗平常心",
 
   theme,
 
