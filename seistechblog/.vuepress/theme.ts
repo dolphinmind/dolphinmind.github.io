@@ -13,9 +13,9 @@ export default hopeTheme({
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "/favicon.ico",
+  logo: "/hero.jpg",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "",
 
   docsDir: "src",
 
@@ -25,7 +25,7 @@ export default hopeTheme({
   // sidebar
   sidebar,
 
-  footer: "Default footer",
+  footer: "宁用问号寻遍世界，不用句号了却此生！",
 
   displayFooter: true,
 
@@ -39,11 +39,11 @@ export default hopeTheme({
     description: "地球物理",
     intro: "/intro.html",
     medias: {
-      BiliBili: "https://example.com",
-      Gitee: "https://example.com",
-      GitHub: "https://example.com",
+      BiliBili: "https://www.bilibili.com/",
+      Gitee: "https://gitee.com/",
+      GitHub: "https://github.com/dolphinmind/dolphinmind.github.io",
       Gitlab: "https://example.com",
-      Gmail: "mailto:info@example.com",
+      Gmail: "https://mail.google.com/",
     },
   },
 
