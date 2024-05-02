@@ -41,7 +41,7 @@ export default hopeTheme({
     medias: {
       BiliBili: "https://www.bilibili.com/",
       Gitee: "https://gitee.com/",
-      GitHub: "https://github.com/dolphinmind/dolphinmind.github.io",
+      GitHub: "https://github.com/dolphinmind/",
       Gitlab: "https://example.com",
       Gmail: "https://mail.google.com/",
     },
