@@ -1,0 +1,5 @@
+
+node_modules/
+seistechblog/.vuepress/.cache/
+seistechblog/.vuepress/.temp/
+seistechblog/.vuepress/dist/
